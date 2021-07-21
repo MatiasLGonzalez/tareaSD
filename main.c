@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(argc, char **argv)
+int main(void)
 {
 	printf("Hola mundo!");
 	return 0;
