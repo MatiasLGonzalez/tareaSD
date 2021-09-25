@@ -37,7 +37,7 @@ jobs:
           
       #Runs doxygenize
       - name: Doxygenize
-        uses: langroodi/doxygenize@4bfdc1f13e694cb20b6de4340408b7253ea0a15b
+        uses: langroodi/doxygenize@v1.1
         with:
           ghpagesbranch: 'master'
           ghpagesdir: './docs/'
