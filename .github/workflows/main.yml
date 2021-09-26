@@ -37,7 +37,7 @@ jobs:
           
       #Runs doxygenize
       - name: Doxygenize
-        uses:  MatiasLGonzalez/doxygenize@5fd93212db44cdbc9746dd77a1130f50d489d1db
+        uses:  MatiasLGonzalez/doxygenize@2078b32e0b8bf46e013cf141776bed9df2ac880b
         with:
           ghpagesbranch: 'master'
           ghpagesdir: './docs/'
