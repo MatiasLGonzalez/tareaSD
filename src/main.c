@@ -5,6 +5,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+/**
+ * Entry point of every C program.
+ */
 int main(void)
 {
 	printf("Hola mundo!");
